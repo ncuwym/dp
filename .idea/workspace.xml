@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e82daf1b-24f2-4b5a-9f20-c80f53dfbce8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../android/UITest/app/src/main/java/com/examples/uitest/Msg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/UITest/app/src/main/java/com/examples/uitest/MsgAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/UITest/app/src/main/res/layout/msg_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test1/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test1/NvWa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test1/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test2/CircleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test2/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test2/GraphFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test2/RectangleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test2/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test2/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test2/TriangleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test2/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test3/GifReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test3/GifReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test3/ImageReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test3/ImageReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test3/JpgReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test3/JpgReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test3/configImageReaderFactory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test4/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test4/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test4/MysqlConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test4/MysqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test4/MysqlStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test4/OracleConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test4/OracleDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test4/OracleStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test4/Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test4/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test5/ACooker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test5/AFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test5/Canteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test5/Cooker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test5/NCooker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test5/NFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test5/SCooker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test5/SFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test5/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test5/configFood.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test6/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test6/ConnectionPoolManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test6/GlobalObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test6/QueryFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test6/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test7/BBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test7/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test7/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test7/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test7/SBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test7/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test7/configBuilder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test8/CModelBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test8/ModelBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test8/SModelBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test8/Show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test8/SoftWare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test8/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test8/configModelBuilder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test91/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test91/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test91/Test91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test92/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test92/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/test92/Test92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/tools/XMLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test1/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test1/CatImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test1/DogImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test1/ICat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test1/IDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test10/AddMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test10/BigCup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test10/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test10/Cup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test10/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test10/NoMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test10/SmallCup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test10/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test2/ConLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test2/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test2/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test2/Lang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test2/Linux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test2/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test2/OS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test2/Python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test2/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test2/Windows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test3/AntiVirus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test3/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test3/ImageFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test3/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test3/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test3/VideoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test4/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test4/BookImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test4/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test4/FreezeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test4/LoseBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test4/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test5/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test5/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test5/HardDisk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test5/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test5/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test5/OS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test6/AbstractChess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test6/BlackChess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test6/ChessFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test6/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test6/WhiteChess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test7/AbstractSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test7/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test7/Picture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test7/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test8/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test8/DrawAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test8/DrawCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test8/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test9/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test9/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test9/FlyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test9/ICar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/test9/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test1/BMJL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test1/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test1/MaterialList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test1/Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test1/ZJL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test1/ZR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test10/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test10/LightPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test10/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test10/ShakePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test10/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test10/VoicePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test2/AddCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test2/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test2/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test3/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test4/American.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test4/China.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test4/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test4/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test4/UN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test4/WTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test5/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test5/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test5/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test6/MySubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test6/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test6/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test6/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test6/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test6/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test7/Final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test7/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test7/Primary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test7/Profession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test7/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test7/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test7/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test8/ComputerStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test8/LanguageStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test8/NovelStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test8/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test8/SumPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test8/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test9/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test9/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test9/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test9/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/test9/VIP.java" afterDir="false" />
+      <change beforePath="D:/work/plus.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Projects\dp\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ue7C5irFU9mAZ1s6YEXVBpfSZR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\dp\src\d3\cmd" />
+      <recent name="D:\Projects\dp\src\d3" />
+      <recent name="D:\Projects\dp\src\d2" />
+      <recent name="D:\Projects\dp\src\d1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d3.test2.Test" />
+      <module name="dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d3.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d3.test1.Test1" />
+      <module name="dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d3.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d3.test6.Test6" />
+      <module name="dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d3.test6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d3.test7.Test7" />
+      <module name="dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d3.test7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d3.test8.Test8" />
+      <module name="dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d3.test8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test8" />
+        <item itemvalue="Application.Test7" />
+        <item itemvalue="Application.Test6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e82daf1b-24f2-4b5a-9f20-c80f53dfbce8" name="Default Changelist" comment="" />
+      <created>1575705076357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575705076357</updated>
+      <workItem from="1575705079678" duration="598000" />
+      <workItem from="1575963376767" duration="166000" />
+      <workItem from="1575977174308" duration="10523000" />
+      <workItem from="1576031200394" duration="1257000" />
+      <workItem from="1576042751765" duration="336000" />
+      <workItem from="1576592843634" duration="2382000" />
+      <workItem from="1576595547583" duration="6000" />
+      <workItem from="1576595837141" duration="1278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="194" key="FileChooserDialogImpl" timestamp="1576597450304">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="553" y="194" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1576597450304" />
+    <state x="646" y="330" width="278" height="213" key="Github.ShareDialog" timestamp="1576596742681">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="646" y="330" width="278" height="213" key="Github.ShareDialog/0.30.1536.834@0.30.1536.834" timestamp="1576596742681" />
+    <state x="583" y="143" key="Github.UntrackedFilesDialog" timestamp="1576596775163">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="583" y="143" key="Github.UntrackedFilesDialog/0.30.1536.834@0.30.1536.834" timestamp="1576596775163" />
+    <state x="269" y="81" key="SettingsEditor" timestamp="1576597435771">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="269" y="81" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1576597435771" />
+  </component>
+</project>

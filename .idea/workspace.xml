@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e82daf1b-24f2-4b5a-9f20-c80f53dfbce8" name="Default Changelist" comment="">
+    <list default="true" id="e82daf1b-24f2-4b5a-9f20-c80f53dfbce8" name="Default Changelist" comment="design pattern lab">
       <change afterPath="$PROJECT_DIR$/../android/UITest/app/src/main/java/com/examples/uitest/Msg.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../android/UITest/app/src/main/java/com/examples/uitest/MsgAdapter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../android/UITest/app/src/main/res/layout/msg_item.xml" afterDir="false" />
@@ -11,6 +11,9 @@
       <change afterPath="$PROJECT_DIR$/src/d3/test2/Invoker.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/d3/test2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/d3/test1/BMJL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d3/test1/BMJL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/d3/test1/Meeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d3/test1/Meeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/d3/test1/ZJL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d3/test1/ZJL.java" afterDir="false" />
       <change beforePath="D:/work/plus.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -165,7 +168,8 @@
       <workItem from="1576592843634" duration="2382000" />
       <workItem from="1576595547583" duration="6000" />
       <workItem from="1576595837141" duration="1278000" />
-      <workItem from="1576597383525" duration="293000" />
+      <workItem from="1576597383525" duration="1097000" />
+      <workItem from="1576598731943" duration="272000" />
     </task>
     <task id="LOCAL-00001" summary="design pattern lab">
       <created>1576597535916</created>
@@ -174,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576597535916</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="design pattern lab">
+      <created>1576597746254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576597746254</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,10 +210,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="design pattern lab" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="33" key="CommitChangelistDialog2" timestamp="1576597533217">
+    <state x="385" y="33" key="CommitChangelistDialog2" timestamp="1576599016207">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="385" y="33" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1576597533217" />
+    <state x="385" y="33" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1576599016207" />
     <state x="553" y="194" key="FileChooserDialogImpl" timestamp="1576597450304">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
@@ -215,13 +226,17 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="583" y="143" key="Github.UntrackedFilesDialog/0.30.1536.834@0.30.1536.834" timestamp="1576596775163" />
-    <state x="269" y="81" key="SettingsEditor" timestamp="1576597435771">
+    <state x="635" y="149" key="RollbackChangesDialog" timestamp="1576598020053">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="269" y="81" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1576597435771" />
-    <state x="365" y="173" key="Vcs.Push.Dialog.v2" timestamp="1576597580880">
+    <state x="635" y="149" key="RollbackChangesDialog/0.30.1536.834@0.30.1536.834" timestamp="1576598020053" />
+    <state x="269" y="81" key="SettingsEditor" timestamp="1576597805765">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="365" y="173" key="Vcs.Push.Dialog.v2/0.30.1536.834@0.30.1536.834" timestamp="1576597580880" />
+    <state x="269" y="81" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1576597805765" />
+    <state x="365" y="173" key="Vcs.Push.Dialog.v2" timestamp="1576598951389">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="365" y="173" key="Vcs.Push.Dialog.v2/0.30.1536.834@0.30.1536.834" timestamp="1576598951389" />
   </component>
 </project>

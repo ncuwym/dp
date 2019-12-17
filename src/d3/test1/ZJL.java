@@ -1,5 +1,6 @@
 package d3.test1;
 
+//具体的审批者总经理类
 public class ZJL extends Leader {
     public ZJL(String name) {
         super(name);

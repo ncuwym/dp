@@ -1,5 +1,6 @@
 package d3.test1;
 
+//具体的审批者部门经理类
 public class BMJL extends Leader {
 
     public BMJL(String name) {

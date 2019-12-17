@@ -1,9 +1,11 @@
 package d3.test1;
 
+//具体的审批者会议类
 public class Meeting extends Leader {
     public Meeting(String name) {
         super(name);
     }
+
     @Override
     public void handleList(MaterialList materialList) {
         if (materialList.getPrice() > 10000) {
